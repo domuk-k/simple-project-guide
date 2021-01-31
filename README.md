@@ -1,12 +1,10 @@
-<center >
+<div align=center>
+  <p> FC-FDS 18기를 위한</p>
+  <h1> JS 프로젝트 간단 가이드</h1>
+  <img width=200 src="https://i.etsystatic.com/13517909/r/il/e028cc/1802571151/il_570xN.1802571151_kie1.jpg"/>
+</div>
 
-### FC-FDS 18기를 위한
-
-# JS 프로젝트 간단 가이드
-
-<img  width=200 src="https://i.etsystatic.com/13517909/r/il/e028cc/1802571151/il_570xN.1802571151_kie1.jpg"/>
-
-</center>
+<br/>
 
 ## TOC
 
@@ -22,7 +20,8 @@
 
 ### 6. [결국 남는 것](#결국-남는-것)
 
----
+----
+
 
 ### 팀 빌딩
 
