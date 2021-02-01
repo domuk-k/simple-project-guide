@@ -91,4 +91,4 @@
 - 뽀모도로 타이머 https://pomofocus.io/
 - 트렐로 https://trello.com
 - 모멘텀 크롬확장프로그램
-- et cetra
+- et cetera
